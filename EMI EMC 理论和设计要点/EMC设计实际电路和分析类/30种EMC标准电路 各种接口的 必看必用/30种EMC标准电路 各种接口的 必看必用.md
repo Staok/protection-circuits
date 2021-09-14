@@ -40,7 +40,7 @@
 
 ![640(38)](assets/640(38).jpg)
 
-10 **DVIEMC设计标准电路**
+10 **DVI EMC设计标准电路**
 
 ![640(39)](assets/640(39).jpg)
 
@@ -76,7 +76,7 @@
 
 ![640(47)](assets/640(47).jpg)
 
-19 **USBDEVICE EMC设计标准电路**
+19 **USB DEVICE EMC设计标准电路**
 
 ![640(48)](assets/640(48).jpg)
 
